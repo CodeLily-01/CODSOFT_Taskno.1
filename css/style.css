@@ -220,10 +220,10 @@ max-width: 50px;
 
 .card1-icon img,
 .card2-icon img,
-.card3-icon img {
-height: 20px;
-width:auto;
-display: block;
+  .card3-icon img {
+  height: 20px;
+  width:auto;
+  display: block;
 }
 
 
@@ -377,7 +377,7 @@ height: 100vh;
 }
 
 
-.projects-section::before{
+.projects-section::before {
   content:"";
  position: absolute;
  inset: 0;
